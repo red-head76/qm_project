@@ -1,6 +1,0 @@
-* Publikationen von waybackmachine in Freidoks
-** Dafür Zugang von Freidoks erwerben
-* Grafische Oberfläche aufpeppeln (Plone)
-** Logo einsetzen
-* Personenliste aktualisieren
-** Alumniliste separat
