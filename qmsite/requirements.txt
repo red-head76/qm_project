@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-Django>=2.2.4,<2.3
-wagtail>=2.5,<2.6
-=======
 beautifulsoup4==4.6.0
 certifi==2019.6.16
 chardet==3.0.4
-Django==2.2.3
+Django==2.2.4
 django-modelcluster==4.4
 django-taggit==0.24.0
 django-treebeard==4.3
@@ -23,4 +19,3 @@ urllib3==1.25.3
 wagtail==2.5.1
 webencodings==0.5.1
 Willow==1.1
->>>>>>> 9d6d58964b168ea0ffbcb871e01ad68e0afbb6f9
